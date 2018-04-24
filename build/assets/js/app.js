@@ -1,1 +1,1 @@
-window.sr=ScrollReveal();
+window.sr=ScrollReveal(),$(document).ready(function(){var t=$(".scroll");t.click(function(t){t.preventDefault(),$("body,html").animate({scrollTop:$(this.hash).offset().top},500)}),$(window).scroll(function(){var o=$(this).scrollTop();t.each(function(){$(this.hash).offset().top-20<=o&&($(this).parent().addClass("active"),$(this).parent().siblings().removeClass("active"))})})});

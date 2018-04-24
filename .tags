@@ -1,0 +1,76 @@
+.gigantic	/Users/damy/GitHub/fscazevenaar/source/sass/3-basics/_typography.sass	/^.gigantic$/;"	function	line:29
+.huge	/Users/damy/GitHub/fscazevenaar/source/sass/3-basics/_typography.sass	/^.huge$/;"	function	line:34
+p	/Users/damy/GitHub/fscazevenaar/source/sass/3-basics/_typography.sass	/^p$/;"	function	line:65
+em	/Users/damy/GitHub/fscazevenaar/source/sass/3-basics/_typography.sass	/^em$/;"	function	line:70
+strong	/Users/damy/GitHub/fscazevenaar/source/sass/3-basics/_typography.sass	/^strong$/;"	function	line:73
+hr	/Users/damy/GitHub/fscazevenaar/source/sass/3-basics/_typography.sass	/^hr$/;"	function	line:76
+#header	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_header.sass	/^#header$/;"	function	line:1
+#overons	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_overons.sass	/^#overons$/;"	function	line:1
+h2	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_overons.sass	/^      h2$/;"	function	line:18
+.ondertitel	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_overons.sass	/^      .ondertitel$/;"	function	line:30
+.number	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_overons.sass	/^      .number$/;"	function	line:40
+nav	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_navigation.sass	/^nav$/;"	function	line:1
+li	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_navigation.sass	/^  li$/;"	function	line:12
+.active	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_navigation.sass	/^  .active$/;"	function	line:15
+a	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_navigation.sass	/^    a$/;"	function	line:16
+a	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_navigation.sass	/^  a$/;"	function	line:25
+.logo	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_navigation.sass	/^  .logo$/;"	function	line:59
+html	/Users/damy/GitHub/fscazevenaar/build/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/damy/GitHub/fscazevenaar/build/index.html	/^<head>$/;"	function	line:3
+title	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <title>FSCA Zevenaar<\/title>$/;"	function	line:4
+meta	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <meta charset="UTF-8" \/>$/;"	function	line:5
+meta	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1" \/>$/;"	function	line:6
+link	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <link rel="stylesheet" href="assets\/css\/main.min.css" \/>$/;"	function	line:7
+body	/Users/damy/GitHub/fscazevenaar/build/index.html	/^<body>$/;"	function	line:9
+nav	/Users/damy/GitHub/fscazevenaar/build/index.html	/^  <nav>$/;"	function	line:11
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <div class="wrapper">$/;"	function	line:12
+ul	/Users/damy/GitHub/fscazevenaar/build/index.html	/^      <ul class="main-nav">$/;"	function	line:13
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li><a href="#header" class="logo scroll"><img src="assets\/img\/logo_bg.svg"><\/a><\/li>$/;"	function	line:14
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li class="active"><a href="#header" class="scroll">Home<\/a><\/li>$/;"	function	line:15
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li><a href="#trainingen" class="scroll">Trainingen<\/a><\/li>$/;"	function	line:16
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li><a href="#overons" class="scroll">Over ons<\/a><\/li>$/;"	function	line:17
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li><a href="#team" class="scroll">Team<\/a><\/li>$/;"	function	line:18
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li><a href="#schema" class="scroll">Schema<\/a><\/a><\/li>$/;"	function	line:19
+li	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <li><a href="#openingstijden" class="scroll">Openingstijden<\/a><\/li>$/;"	function	line:20
+section	/Users/damy/GitHub/fscazevenaar/build/index.html	/^  <section id="header">$/;"	function	line:26
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <div class="outer-container">$/;"	function	line:27
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^      <div class="inner-container">$/;"	function	line:28
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="header-item">$/;"	function	line:29
+img	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <img src="assets\/img\/logo_bg.svg" class="header-logo"><\/img>$/;"	function	line:30
+h	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <h1 class="no-show">FSCA Zevenaar<\/h1>$/;"	function	line:31
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="header-item first-row">Sporten kun je overal<\/div>$/;"	function	line:33
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="header-item second-row">Trainen doe je bij FSCA.<\/div>$/;"	function	line:34
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="header-item third-row"><a class="header-button" href="#schema">Naar het schema<\/a><\/div>$/;"	function	line:35
+section	/Users/damy/GitHub/fscazevenaar/build/index.html	/^  <section id="trainingen">$/;"	function	line:41
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <div class="wrapper">$/;"	function	line:42
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^      <div class="titel">$/;"	function	line:43
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="outer-container">$/;"	function	line:44
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="inner-container">$/;"	function	line:45
+h	/Users/damy/GitHub/fscazevenaar/build/index.html	/^            <h2 class="titel-item">Trainingen<\/h2>$/;"	function	line:46
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^            <div class="titel-item ondertitel">Méér dan alleen een sportschool.<\/div>$/;"	function	line:47
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^            <div class="titel-item number ">01<\/div>$/;"	function	line:48
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^      <div class="block-grid">$/;"	function	line:52
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="flex-grid">$/;"	function	line:53
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">123<\/div>$/;"	function	line:54
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">223<\/div>$/;"	function	line:55
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">323<\/div>$/;"	function	line:56
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">423<\/div>$/;"	function	line:57
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">523<\/div>$/;"	function	line:58
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">623<\/div>$/;"	function	line:59
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">723<\/div>$/;"	function	line:60
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="column">823<\/div>$/;"	function	line:61
+section	/Users/damy/GitHub/fscazevenaar/build/index.html	/^  <section id="overons">$/;"	function	line:68
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^    <div class="wrapper titel">$/;"	function	line:69
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^      <div class="outer-container">$/;"	function	line:70
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^        <div class="inner-container">$/;"	function	line:71
+h	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <h2 class="titel-item">Over ons<\/h2>$/;"	function	line:72
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="titel-item ondertitel">Professioneel & gezond<\/div>$/;"	function	line:73
+div	/Users/damy/GitHub/fscazevenaar/build/index.html	/^          <div class="titel-item number ">02<\/div>$/;"	function	line:74
+script	/Users/damy/GitHub/fscazevenaar/build/index.html	/^  <script src=".\/assets\/js\/vendors.js"><\/script>$/;"	function	line:79
+script	/Users/damy/GitHub/fscazevenaar/build/index.html	/^  <script src=".\/assets\/js\/app.js"><\/script>$/;"	function	line:80
+#trainingen	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_trainingen.sass	/^#trainingen$/;"	function	line:1
+.titel	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_trainingen.sass	/^.titel$/;"	function	line:5
+h2	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_trainingen.sass	/^      h2$/;"	function	line:25
+.ondertitel	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_trainingen.sass	/^      .ondertitel$/;"	function	line:37
+.number	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_trainingen.sass	/^      .number$/;"	function	line:47
+.column	/Users/damy/GitHub/fscazevenaar/source/sass/6-pages/_trainingen.sass	/^    .column$/;"	function	line:66

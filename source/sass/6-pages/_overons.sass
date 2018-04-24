@@ -1,0 +1,48 @@
+#overons
+  height: 100vh
+  width: 100vw
+
+  .outer-container
+    display: flex
+    align-items: center
+    justify-content: center
+    height: 200px
+    padding: 0
+    margin: 0
+    width: 100%
+
+    .inner-container
+      width: auto
+      position: relative
+
+      h2
+        font-size: 36px
+        font-weight: 800
+        letter-spacing: 1.5px
+        @include opensans
+        color: $fsca
+        line-height: 36px
+        text-align: left
+        width: 100%
+        margin-bottom: 5px
+        margin-top: 0px
+
+      .ondertitel
+        font-size: 18px
+        @include opensans
+        line-height: 18px
+        color: #181818
+        letter-spacing: 1.5px
+        font-weight: 400
+        width: 100%
+
+
+      .number
+        z-index: -1
+        font-size: 100px
+        position: absolute
+        top: -50px
+        right: 0px
+        @include pt
+        font-style: italic
+        opacity: 0.15
