@@ -1,48 +1,46 @@
 #overons
   height: 100vh
   width: 100vw
+  margin: 0px
+  padding: 0px
 
-  .outer-container
-    display: flex
-    align-items: center
-    justify-content: center
-    height: 200px
-    padding: 0
-    margin: 0
-    width: 100%
+  .full-width
+    position: relative
+    width: 100vw
+    margin: 0px
+    padding: 0px
 
-    .inner-container
-      width: auto
-      position: relative
+    .column-50
+      display: block
+      width: 50vw
+      height: 50vw
+      background-color: #212121
+      margin: 0px
+      padding: 0px
+      float: right
 
-      h2
-        font-size: 36px
-        font-weight: 800
-        letter-spacing: 1.5px
-        @include opensans
-        color: $fsca
-        line-height: 36px
-        text-align: left
-        width: 100%
-        margin-bottom: 5px
-        margin-top: 0px
+    .column-50:first-child
+      background: url("../img/placeholder.png") no-repeat
+      background-size: cover
+      margin: 0px
+      padding: 0px
+      width: 50vw
+      height: 50vw
+      display: block
+      float: left
 
-      .ondertitel
-        font-size: 18px
-        @include opensans
-        line-height: 18px
-        color: #181818
-        letter-spacing: 1.5px
-        font-weight: 400
-        width: 100%
+    .titel-item
+      color: white !important
+      z-index: 999 !important
 
-
-      .number
-        z-index: -1
-        font-size: 100px
-        position: absolute
-        top: -50px
-        right: 0px
-        @include pt
-        font-style: italic
-        opacity: 0.15
+    .content
+      width: 100%
+      height: auto
+      padding: 0 100px
+      color: white
+      max-height: 100%
+      @include hind
+      font-size: 16px
+      letter-spacing: 1px
+      text-align: justify
+      line-height: 25px

@@ -29,7 +29,7 @@
         @include opensans
         color: $fsca
         line-height: 36px
-        text-align: left
+        text-align: right
         width: 100%
         margin-bottom: 5px
         margin-top: 0px
@@ -39,7 +39,7 @@
         @include opensans
         line-height: 18px
         color: #181818
-        letter-spacing: 1.5px
+        letter-spacing: 2.5px
         font-weight: 400
         width: 100%
 
@@ -48,43 +48,47 @@
         z-index: -1
         font-size: 100px
         position: absolute
-        top: -50px
-        right: 20px
+        top: -45px
+        right: -70px
         @include pt
         font-style: italic
         opacity: 0.15
 
 .block-grid
-  height: 85vh
+  height: 90vh
 
-  .flex-grid
-    display: flex
-    flex-wrap: wrap
-    margin-left: -1rem
-    margin-right: -1rem
+.square-container
+  position: relative
+  background: url("../img/placeholder.png") no-repeat
+  background-size: cover
+  height: 100%
+  padding-top: 100%
 
-    .column
-      flex-grow: 1
-      flex-basis: 25%
-      padding-left: 1rem
-      padding-right: 1rem
-      position: relative
-      background: orange
-      width: 20%
-      padding-top: calc(25% - 20px)
-      overflow: hidden
+  .center-container
+    height: 88px
+    width: 100%
+    position: absolute
+    top: 0px
+    padding-top: calc(50% - 44px)
 
-      .center-image
-        position: absolute
-        top: 50%
-        left: 50%
-        transform: translate(-50%, -50%)
-        width: 100%
-        text-align: center
+    i
+      font-size: 6rem
+      text-align: center
+      width: 100%
+      color: white
+      text-decoration: none
+      line-height: 60px
 
-        p
-          @include hind
-          font-weight: 700
-          text-transform: uppercase
-          text-decoration: none
-          font-size: 14px
+
+    .block-text
+      @include hind
+      font-weight: 700
+      text-transform: uppercase
+      text-decoration: none
+      font-size: 16px
+      width: 100%
+      text-align: center
+      color: white
+      line-height: 16px
+      margin: 0px
+      padding: 0px
